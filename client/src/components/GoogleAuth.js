@@ -1,14 +1,14 @@
 import React from "react";
 import { connect } from "react-redux";
 import { signIn, signOut } from "../actions";
+require("dotenv").config();
 
 class GoogleAuth extends React.Component {
   componentDidMount() {
     window.gapi.load("client:auth2", () => {
       window.gapi.client
         .init({
-          clientId:
-            "999634582224-gmi84hj14tfbrmhofjj94h1sn0pk7sdg.apps.googleusercontent.com",
+          clientId: process.env.REACT_APP_API_KEY,
           scope: "email",
         })
         .then(() => {
