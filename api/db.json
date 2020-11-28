@@ -1,24 +1,4 @@
 {
   "streams": [
-    {
-      "title": "My Stream",
-      "description": "This is a great stream.",
-      "id": 1
-    },
-    {
-      "title": "Here's some stream",
-      "description": "Other Stream",
-      "id": 2
-    },
-    {
-      "title": "I created the stream",
-      "description": "test",
-      "id": 3
-    },
-    {
-      "title": "3344",
-      "description": "655ddd",
-      "id": 4
-    }
   ]
 }
