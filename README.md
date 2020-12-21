@@ -32,10 +32,13 @@ https://jeanmendescs-crud-googleauth.netlify.app/
 
 Autenticação Google
 ![Example screenshot](https://imgur.com/dH3GVNo.jpg)
+
 Adicionando uma stream
 ![Example screenshot](https://imgur.com/FPhfTKi.jpg)
+
 Página Inicial com a stream adicionada
 ![Example screenshot](https://imgur.com/h9ZvCye.jpg)
+
 Deletando uma stream
 ![Example screenshot](https://imgur.com/1L5sS1T.jpg)
 
