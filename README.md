@@ -11,7 +11,6 @@
 - [CrudGoogleAuth](#crudgoogleauth)
 - [Tabela de conteúdos](#tabela-de-conteúdos)
 - [Descrição](#descrição)
-- [Projeto Online](#projeto-online)
 - [Screenshots](#screenshots)
 - [Tecnologias](#tecnologias)
 - [Instalação](#instalação)
@@ -23,10 +22,6 @@
 ## Descrição
 
 O objetivo deste projeto é colocar em prática o conteúdo aprendido de um curso online. Para tanto, foram aplicados conhecimentos de React, Redux, Router, Modal e CSS3.
-
-## Projeto Online
-
-https://jeanmendescs-crud-googleauth.netlify.app/
 
 ## Screenshots
 
